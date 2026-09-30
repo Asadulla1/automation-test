@@ -40,8 +40,8 @@ End-to-end login test for [Automation Exercise](https://www.automationexercise.c
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone (https://github.com/Asadulla1/automation-test.git)
+   cd automation-test
    ```
 
 2. Install dependencies and browsers:
